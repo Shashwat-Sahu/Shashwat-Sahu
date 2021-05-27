@@ -59,8 +59,8 @@ I'm Shashwat Sahu a Full stack web developer, a quick learner and a software ent
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shashwat-Sahu.Shashwat-Sahu)
 
 
-#### Github Pull Requests
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Shashwat-Sahu/StrapDown.js.svg)](https://GitHub.com/Shashwat-Sahu/StrapDown.js/pull/)
+<!-- #### Github Pull Requests
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Shashwat-Sahu/insta-clone.svg)](https://GitHub.com/Shashwat-Sahu/insta-clone/pull/) -->
 
 
 <details>
@@ -70,21 +70,18 @@ I'm Shashwat Sahu a Full stack web developer, a quick learner and a software ent
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and how people contribute to open source. Curiosity lives in my mind, literally a house. Every day is like learning something new and implementing it.
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   34 hrs 19 mins  ████████████████████▓░░░░   82.29 % 
-HTML         15 hr 50 mins    ████████░░░░░░░░░░░░░░░░   09.61 % 
-CSS          10 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░   07.63 % 
-C++        20 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-C++         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript   34 hrs 19 mins █████████████░░░░░░░░░░░░   47.20 % 
+HTML         15 hr 50 mins  ██████████░░░░░░░░░░░░░░░   21.80 % 
+CSS          10 hr 27 mins  ███████░░░░░░░░░░░░░░░░░░   13.82 % 
+C++          10 hr          ██████░░░░░░░░░░░░░░░░░░░   13.77 % 
+Others       2 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 <!--END_SECTION:waka-->
 
